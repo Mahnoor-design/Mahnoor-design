@@ -1,7 +1,20 @@
-# Project-Flow
-This repository is to understand how Github works.
-I will try to learn Github basics and build my account step-by-step.
-The main goal is to contribute to open source projects.
-Currently, I am working on learning R.
-Next aim is to learn Python as well.
-Endgoal is to get an internship in bioinformatics.
+About Me
+Data Analyst: I connect the dots between data points to build stories that inspire decisions.
+Education:
+BS in Applied Biosciences
+Masters in Industrial Biotechnology
+Research Interests:
+Gut Microbiome
+Computational Microbiology
+
+Open for Collaborations
+I am always excited to collaborate on projects related to:
+
+Data Analysis and Visualization
+Microbiome Research
+Computational Biology
+Feel free to reach out if you have ideas or projects you'd like to work on together!
+
+Contact Me
+📧 Email: [mahnoor@gmail.com]
+💼 LinkedIn: []
