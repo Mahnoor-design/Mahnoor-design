@@ -8,7 +8,8 @@
   - Masters in Industrial Biotechnology  
 - **Research Interests**:  
   - Gut Microbiome  
-  - Computational Microbiology  
+  - Computational Microbiology
+  - Storytelling
 
 ## 🔗 Open for Collaborations  
 I am always excited to collaborate on projects related to:  
