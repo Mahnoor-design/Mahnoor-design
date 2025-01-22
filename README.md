@@ -2,7 +2,7 @@
 - **Data Analyst**:
     I connect data points to create stories that guide decisions. 
 - **Education**:  
-  - BS in Applied Biosciences  
+  - Bachelors in Applied Biosciences  
   - Masters in Industrial Biotechnology  
 - **Research Interests**:  
   - Gut Microbiome  
