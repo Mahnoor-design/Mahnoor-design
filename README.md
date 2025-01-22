@@ -20,5 +20,5 @@ I am always excited to collaborate on projects related to:
 Feel free to reach out if you have ideas or projects you'd like to work on together!  
 
 ## 🔗 Contact Me  
-📧 **Email**: [Your Email Address]  
-💼 **LinkedIn**: [Your LinkedIn Profile Link]  
+📧 **Email**: [mahnoor20034@gmail.com]  
+💼 **LinkedIn**: [https://www.linkedin.com/in/mahnoorm/]  
